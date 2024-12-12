@@ -3,7 +3,7 @@
 
 <!-- Avatar and Introduction -->
 <p align="center">
-  <img src="https://github.com/Workbraj.png" alt="Avatar" width="150"/>
+  <img src="https://github.com/rajbhujell.png" alt="Avatar" width="150"/>
 </p>
 
 <h1 align="center">Hi there, I'm Raj Bhujel 👋</h1>
@@ -11,10 +11,12 @@
   A passionate developer specializing in JavaScript, Web Development, and Cloud Technologies. Always eager to learn and collaborate on innovative projects.
 </p>
 
-<!-- Social Links -->
+---
+
 ## 🌐 Socials
+
 <p align="center">
-  <a href="https://discord.gg/https://discordapp.com/users/braj" target="_blank">
+  <a href="https://discord.gg/your-discord-invite" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"/>
   </a>
   <a href="https://facebook.com/raj.bhujel.9469" target="_blank">
@@ -31,8 +33,10 @@
   </a>
 </p>
 
-<!-- Tech Stack -->
+---
+
 ## 💻 Tech Stack
+
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
@@ -45,31 +49,53 @@
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
 </p>
 
-<!-- GitHub Stats -->
+---
+
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Workbraj&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Workbraj&theme=dark&hide_border=false" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Workbraj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rajbhujell&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </p>
 
-<!-- Top Contributed Repo -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajbhujell&theme=dark&hide_border=false" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajbhujell&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+</p>
+
+---
+
 ## 🔝 Top Contributed Repo
+
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Workbraj&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true" alt="Top Repos"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=rajbhujell&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true" alt="Top Repos"/>
 </p>
 
-<!-- Visitor Counter -->
+---
+
 ## 👀 Profile Views
+
 <p align="center">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=raj&label=Profile%20Views&color=12&icon=0&pretty=true" alt="Profile Views"/>
   </a>
 </p>
 
-<!-- Footer -->
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## Footer
+
 <p align="center">
-  <a href="https://github.com/Workbraj">
-    <img src="https://img.shields.io/github/followers/Workbraj?label=Follow&style=social" alt="GitHub Follow"/>
+  <a href="https://github.com/rajbhujell">
+    <img src="https://img.shields.io/github/followers/rajbhujell?label=Follow&style=social" alt="GitHub Follow"/>
   </a>
 </p>
